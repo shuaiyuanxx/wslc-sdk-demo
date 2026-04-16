@@ -1,0 +1,23 @@
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# VS Code
+.vscode/
+
+# Claude
+.claude/
+
+# Output files
+output.txt
+error.txt
