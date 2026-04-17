@@ -59,7 +59,7 @@ cd build
 cmake ..
 cmake --build .
 ```
-THen install the `wsl.msi`, which should should be found in the output folder `WSL\build\bin\x64\Debug`
+Then install the `wsl.msi`, which should be found in the output folder `WSL\build\bin\x64\Debug`
 
 Verify:
 ```
